@@ -5,7 +5,7 @@
 </p>
 
 Открытая вики о том, как получить доступ к умным колонкам Яндекса и что с ними можно
-сделать дальше: SSH, свой софт, USB-периферия, AirPlay, свои звуки. Всё — для своих устройств.
+сделать: SSH, LLM, Root, Airplay, Spotify и многое другое!
 
 <div class="tg-banner" markdown>
 <span class="tg-banner__icon">:fontawesome-brands-telegram:</span>
@@ -29,18 +29,18 @@
 
 -   :material-play-circle: **[Начало работы](start/index.md)**
 
-    Root, SSH, защита от обновлений, пакеты, восстановление.
+    Получение ADB, Получение Root, Настройка SSH и других пакетов
 
--   :material-lightbulb-on: **[Рецепты](recipes/index.md)**
+-   :material-lightbulb-on: **[Полезное](recipes/index.md)**
 
-    USB Host (флешки, Ethernet, наушники), AirPlay, свои звуки, Fastfetch, подсветка,
+    USB Host (флешки, Ethernet, наушники), AirPlay, LLM, Управление LED,
     плагины [YAM](recipes/yam.md).
 
 -   :material-speaker: **[Устройства](devices/index.md)**
 
-    Железо каждой модели: SoC, флеш, I2C, звук, подсветка.
+    Технические спецификации каждой Яндекс Станции.
 
--   :material-cog: **[Как это устроено](internals/architecture.md)**
+-   :material-cog: **[Как это работает?](internals/architecture.md)**
 
     Прошивка quasar, сеть и порты, подводные камни, сборка своего софта.
 
@@ -72,8 +72,8 @@
 
 ---
 
-Нашли что-то новое? Нажмите ✏️ вверху любой страницы и предложите правку —
-[как дополнять вики](contributing.md).
+Нашли что-то новое? Нажмите ✏️ вверху любой страницы и предложите правку. 
+[Как дополнять вики?](contributing.md).
 
 !!! warning "Только свои устройства"
     Модификация системных разделов может вывести колонку из строя. Не публикуйте
